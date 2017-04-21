@@ -72,6 +72,6 @@
     "preset": "react-native"
   },
   "peerDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": "^0.43.2"
   }
 }
